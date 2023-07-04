@@ -34,7 +34,7 @@ MEAN | MEDIAN | MODE
 -----|--------|-----
 2.6 | 2.1 | 1.7
 
-![Bar Chart](http://url/to/img.png)
+![Bar Chart](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/bar_chart.png)
 The bar chart shows the number of countries in each fertility bucket. This can be a useful way to visualize the distribution of fertility rates around the world.
 The buckets defined are — 
 BUCKET | Lower Bound | Upper Bound
@@ -52,10 +52,10 @@ J |1 | 1.5
 K |0.5 | 1 
 
 
-![Box Plot](http://url/to/img.png)
+![Box Plot](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/boxplot.png)
 A box plot is a graphical representation of data that shows the distribution of data points along with the median, first quartile, and third quartile. In the context of world fertility data, a box plot shows the distribution of fertility rates around the world and identifies any outliers.
 
-![Map of the World](http://url/to/img.png)
+![Map of the World](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/world_map.png)
 A map of the world is used to show the fertility rate of each country. This can be a useful way to visualize the global distribution of fertility rates and to identify any trends.
 
 ## Author
