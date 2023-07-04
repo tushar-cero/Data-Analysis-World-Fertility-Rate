@@ -52,7 +52,7 @@ J |1 | 1.5
 K |0.5 | 1 
 
 
-![Box Plot](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/boxplot.png)
+![Box Plot](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/box_plot.png)
 A box plot is a graphical representation of data that shows the distribution of data points along with the median, first quartile, and third quartile. In the context of world fertility data, a box plot shows the distribution of fertility rates around the world and identifies any outliers.
 
 ![Map of the World](https://github.com/tushar-cero/Data-Analysis-World-Fertility-Rate/blob/main/world_map.png)
