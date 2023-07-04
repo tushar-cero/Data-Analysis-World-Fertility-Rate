@@ -1,0 +1,213 @@
+Sr. No,Country,Avg. Fertility,Birth Rate (per 1k),Infant Mortality Rate (per 1k)
+1,Niger,6.82,59.38 per 1k,45.6 per 1k
+2,Angola,5.83,46.15 per 1k,48.3 per 1k
+3,Democratic Republic of the Congo,5.63,46.02 per 1k,63.8 per 1k
+4,Mali,5.54,52.22 per 1k,58.8 per 1k
+5,Chad,5.46,46.65 per 1k,67.4 per 1k
+6,Benin,5.43,40.62 per 1k,56.5 per 1k
+7,Uganda,5.36,52.43 per 1k,31.9 per 1k
+8,South Sudan,5.32,46.23 per 1k,63.3 per 1k
+9,Somalia,5.31,50.47 per 1k,72.7 per 1k
+10,Burundi,5.03,51.33 per 1k,38.6 per 1k
+11,Guinea,4.85,45.04 per 1k,62 per 1k
+12,Mozambique,4.81,46.66 per 1k,52.8 per 1k
+13,Liberia,4.79,43.1 per 1k,58.1 per 1k
+14,Guinea-Bissau,4.69,46.18 per 1k,51.4 per 1k
+15,Afghanistan,4.62,48.87 per 1k,45 per 1k
+16,Nigeria,4.62,45.61 per 1k,72.2 per 1k
+17,Sudan,4.6,47.75 per 1k,39.9 per 1k
+18,Zambia,4.56,48.56 per 1k,41.7 per 1k
+19,Cameroon,4.55,43.23 per 1k,48.3 per 1k
+20,Tanzania,4.39,47.75 per 1k,34.7 per 1k
+21,Republic of the Congo,4.36,44.9 per 1k,33 per 1k
+22,Burkina Faso,4.27,43.51 per 1k,52.8 per 1k
+23,Senegal,4.27,51.65 per 1k,28.9 per 1k
+24,Equatorial Guinea,4.26,42.83 per 1k,58.3 per 1k
+25,Togo,4.23,47.22 per 1k,44.4 per 1k
+26,East Timor,4.21,43.41 per 1k,36.5 per 1k
+27,Central African Republic,4.04,43.56 per 1k,77.5 per 1k
+28,Ethiopia,3.99,49.4 per 1k,35.4 per 1k
+29,Papua New Guinea,3.92,45.27 per 1k,35.2 per 1k
+30,Zimbabwe,3.89,50.41 per 1k,37.9 per 1k
+31,Sierra Leone,3.8,48.61 per 1k,80.1 per 1k
+32,The Gambia,3.79,49.64 per 1k,34.7 per 1k
+33,Ghana,3.66,46.76 per 1k,33 per 1k
+34,Madagascar,3.62,48.59 per 1k,36.3 per 1k
+35,Eritrea,3.58,44.89 per 1k,29.7 per 1k
+36,São Tomé and Príncipe,3.56,48.11 per 1k,12.7 per 1k
+37,Ivory Coast,3.53,54.79 per 1k,57.9 per 1k
+38,Mauritania,3.53,45.23 per 1k,49 per 1k
+39,Pakistan,3.46,43.72 per 1k,54.2 per 1k
+40,Malawi,3.4,49.2 per 1k,29 per 1k
+41,Rwanda,3.33,55.44 per 1k,30.3 per 1k
+42,Gabon,3.31,30.19 per 1k,30.7 per 1k
+43,Kenya,3.29,49.47 per 1k,31.2 per 1k
+44,Iraq,3.25,45.73 per 1k,21.3 per 1k
+45,Libya,3.09,46.97 per 1k,9.5 per 1k
+46,Yemen,3.01,52.59 per 1k,45.7 per 1k
+47,Namibia,2.98,42.04 per 1k,30.1 per 1k
+48,Jordan,2.96,46.54 per 1k,12.9 per 1k
+49,Lesotho,2.92,43.35 per 1k,69.9 per 1k
+50,Egypt,2.88,54.2 per 1k,16.6 per 1k
+51,Solomon Islands,2.87,41.53 per 1k,16.6 per 1k
+52,Syria,2.8,47 per 1k,18.4 per 1k
+53,Comoros,2.78,44.2 per 1k,47.2 per 1k
+54,Guam,2.78,28.98 per 1k,
+55,Philippines,2.78,49.84 per 1k,20.9 per 1k
+56,Marshall Islands,2.76,46.25 per 1k,25.5 per 1k
+57,Oman,2.7,53.74 per 1k,9.5 per 1k
+58,Vanuatu,2.66,42.18 per 1k,21.1 per 1k
+59,Northern Mariana Islands,2.63,45.16 per 1k,
+60,Belize,2.62,53.14 per 1k,10 per 1k
+61,Guatemala,2.62,51.12 per 1k,20.1 per 1k
+62,Nauru,2.62,31.04 per 1k,23.8 per 1k
+63,Israel,2.56,36.32 per 1k,2.9 per 1k
+64,Algeria,2.51,51.05 per 1k,19.5 per 1k
+65,Kyrgyzstan,2.5,36.07 per 1k,15.7 per 1k
+66,Tajikistan,2.45,38.41 per 1k,28.4 per 1k
+67,Eswatini,2.44,50.49 per 1k,37.4 per 1k
+68,Haiti,2.43,46.34 per 1k,46.7 per 1k
+69,Botswana,2.39,45.38 per 1k,36.1 per 1k
+70,Panama,2.39,40.6 per 1k,12.3 per 1k
+71,Laos,2.35,48.54 per 1k,35.3 per 1k
+72,Bolivia,2.33,43.42 per 1k,20.7 per 1k
+73,Faroe Islands,2.29,27.38 per 1k,
+74,Morocco,2.29,51.09 per 1k,16 per 1k
+75,Fiji,2.26,41.1 per 1k,23 per 1k
+76,Cambodia,2.24,47.67 per 1k,22 per 1k
+77,Federated States of Micronesia,2.24,45.33 per 1k,20.9 per 1k
+78,Kuwait,2.24,41.9 per 1k,7.6 per 1k
+79,Venezuela,2.22,47.06 per 1k,21.1 per 1k
+80,Dominican Republic,2.21,52.73 per 1k,27.9 per 1k
+81,Peru,2.2,48.16 per 1k,10 per 1k
+82,Argentina,2.18,26 per 1k,7.6 per 1k
+83,South Africa,2.18,41.65 per 1k,25.8 per 1k
+84,Djibouti,2.15,45.74 per 1k,47.2 per 1k
+85,Kazakhstan,2.11,35.5 per 1k,8.9 per 1k
+86,India,2.1,43.84 per 1k,27 per 1k
+87,Bangladesh,2.09,46.52 per 1k,24.3 per 1k
+88,Guyana,2.06,42.18 per 1k,23.8 per 1k
+89,Jamaica,2.06,33.11 per 1k,11.4 per 1k
+90,El Salvador,2.05,47.06 per 1k,11.1 per 1k
+91,Vietnam,2.05,38.82 per 1k,16.7 per 1k
+92,Ecuador,2.04,45.72 per 1k,11.1 per 1k
+93,France,2.03,20.77 per 1k,3.4 per 1k
+94,Turkmenistan,2.03,37.64 per 1k,36.1 per 1k
+95,Dominica,2.02,34.49 per 1k,31.7 per 1k
+96,Honduras,2.01,52.5 per 1k,13.9 per 1k
+97,Indonesia,2.01,40.64 per 1k,19.5 per 1k
+98,Tunisia,2,45.92 per 1k,14.3 per 1k
+99,United States Virgin Islands,2,32.75 per 1k,
+100,Sint Maarten,1.99,39.15 per 1k,
+101,Curaçao,1.98,35.44 per 1k,
+102,Sri Lanka,1.98,35.92 per 1k,5.9 per 1k
+103,The Bahamas,1.98,38.75 per 1k,10.5 per 1k
+104,Antigua and Barbuda,1.95,36.7 per 1k,5.4 per 1k
+105,Colombia,1.95,46.74 per 1k,11.4 per 1k
+106,Iceland,1.95,28.71 per 1k,1.5 per 1k
+107,Grenada,1.93,35.46 per 1k,14.5 per 1k
+108,Iran,1.93,50.14 per 1k,11.1 per 1k
+109,Ireland,1.92,22.69 per 1k,2.6 per 1k
+110,Saudi Arabia,1.92,53.34 per 1k,6 per 1k
+111,Suriname,1.92,45.47 per 1k,15.7 per 1k
+112,Mongolia,1.91,40.69 per 1k,13.2 per 1k
+113,Bermuda,1.9,30.11 per 1k,
+114,Kosovo,1.9,,
+115,Nepal,1.9,47.06 per 1k,23.6 per 1k
+116,North Korea,1.9,40.3 per 1k,11.6 per 1k
+117,Qatar,1.9,48 per 1k,4.9 per 1k
+118,Isle of Man,1.89,15.67 per 1k,
+119,Paraguay,1.89,44.66 per 1k,16.2 per 1k
+120,Azerbaijan,1.86,37.36 per 1k,17.3 per 1k
+121,Costa Rica,1.86,45.02 per 1k,6.7 per 1k
+122,New Caledonia,1.86,34.93 per 1k,
+123,New Zealand,1.86,25.72 per 1k,3.9 per 1k
+124,United States of America,1.84,22.81 per 1k,5.4 per 1k
+125,Aruba,1.83,44.89 per 1k,
+126,Norway,1.83,18.96 per 1k,1.8 per 1k
+127,Cayman Islands,1.82,35.3 per 1k,
+128,Seychelles,1.82,32.63 per 1k,12 per 1k
+129,Montenegro,1.81,29.96 per 1k,2 per 1k
+130,Brazil,1.8,46.43 per 1k,13.1 per 1k
+131,Nicaragua,1.8,54.95 per 1k,13.8 per 1k
+132,Saint Martin,1.8,43.88 per 1k,
+133,Bhutan,1.79,47.47 per 1k,23.2 per 1k
+134,Netherlands,1.78,22.82 per 1k,3.6 per 1k
+135,Belgium,1.77,16.74 per 1k,3.4 per 1k
+136,Denmark,1.77,18.6 per 1k,3.1 per 1k
+137,Chile,1.76,37.09 per 1k,5.8 per 1k
+138,Saint Kitts and Nevis,1.76,50.16 per 1k,12.6 per 1k
+139,Uruguay,1.76,20.89 per 1k,5.3 per 1k
+140,Georgia,1.75,23.95 per 1k,8.2 per 1k
+141,Malaysia,1.75,44.31 per 1k,7.4 per 1k
+142,Saint Vincent and the Grenadines,1.75,51.73 per 1k,12.9 per 1k
+143,Brunei,1.74,47.94 per 1k,9.6 per 1k
+144,Finland,1.74,24.55 per 1k,1.9 per 1k
+145,Australia,1.73,23.29 per 1k,3.1 per 1k
+146,Uzbekistan,1.73,39.85 per 1k,12.5 per 1k
+147,Anguilla,1.72,52.65 per 1k,
+148,Saint Lucia,1.72,41.06 per 1k,22 per 1k
+149,Cuba,1.71,31.98 per 1k,4.1 per 1k
+150,Lebanon,1.71,40.8 per 1k,6 per 1k
+151,Maldives,1.71,41.34 per 1k,5.5 per 1k
+152,Barbados,1.7,34.87 per 1k,11.4 per 1k
+153,Palau,1.7,43.4 per 1k,15.7 per 1k
+154,Turks and Caicos Islands,1.7,47.76 per 1k,
+155,Liechtenstein,1.69,21.17 per 1k,
+156,Mexico,1.68,49.31 per 1k,11.8 per 1k
+157,Bahrain,1.67,47.63 per 1k,5.8 per 1k
+158,Sweden,1.67,16.57 per 1k,2.1 per 1k
+159,Jersey,1.66,16.29 per 1k,
+160,Armenia,1.65,35.15 per 1k,9.7 per 1k
+161,Saint-Barthélemy,1.64,24.71 per 1k,
+162,United Arab Emirates,1.64,48.1 per 1k,5.6 per 1k
+163,Luxembourg,1.63,14.86 per 1k,2.3 per 1k
+164,Romania,1.63,25.19 per 1k,5.6 per 1k
+165,Trinidad and Tobago,1.63,40.25 per 1k,14.8 per 1k
+166,United Kingdom,1.63,16.44 per 1k,3.6 per 1k
+167,Estonia,1.61,18.48 per 1k,1.7 per 1k
+168,Lithuania,1.61,23.25 per 1k,2.7 per 1k
+169,Russia,1.6,28.8 per 1k,4.4 per 1k
+170,Saint Helena,1.6,38.15 per 1k,
+171,Slovenia,1.6,23.63 per 1k,1.8 per 1k
+172,Moldova,1.59,29.56 per 1k,12.5 per 1k
+173,Saint Pierre and Miquelon,1.59,30.68 per 1k,
+174,Guernsey,1.58,17.33 per 1k,
+175,Switzerland,1.58,17.98 per 1k,3.5 per 1k
+176,Canada,1.57,26.8 per 1k,4.4 per 1k
+177,Germany,1.57,16.22 per 1k,3.1 per 1k
+178,Ukraine,1.56,22.95 per 1k,6.9 per 1k
+179,Albania,1.54,38.07 per 1k,8.8 per 1k
+180,Latvia,1.54,17.32 per 1k,3.4 per 1k
+181,Thailand,1.54,43.84 per 1k,7.4 per 1k
+182,Monaco,1.53,20.74 per 1k,2.5 per 1k
+183,San Marino,1.53,22.48 per 1k,1.6 per 1k
+184,Austria,1.51,15.42 per 1k,3 per 1k
+185,Belarus,1.51,21.31 per 1k,2.2 per 1k
+186,Republic of Macedonia,1.51,39.89 per 1k,5.2 per 1k
+187,Bulgaria,1.5,21.8 per 1k,5.1 per 1k
+188,Malta,1.5,29.24 per 1k,5.6 per 1k
+189,Czech Republic,1.49,21.08 per 1k,2.3 per 1k
+190,Cyprus,1.48,29.47 per 1k,2.3 per 1k
+191,Hungary,1.48,21.01 per 1k,3.4 per 1k
+192,Serbia,1.46,26.78 per 1k,4.9 per 1k
+193,Slovakia,1.46,28.86 per 1k,4.7 per 1k
+194,Andorra,1.45,16.14 per 1k,2.4 per 1k
+195,Croatia,1.45,23.95 per 1k,3.9 per 1k
+196,People's Republic of China,1.45,41.05 per 1k,5.5 per 1k
+197,Portugal,1.43,24.37 per 1k,2.7 per 1k
+198,Greece,1.4,20.02 per 1k,3.6 per 1k
+199,Poland,1.4,30.85 per 1k,3.7 per 1k
+200,Japan,1.38,28.34 per 1k,1.8 per 1k
+201,Bosnia and Herzegovina,1.36,37.71 per 1k,4.9 per 1k
+202,British Virgin Islands,1.35,36.83 per 1k,
+203,Mauritius,1.35,42.48 per 1k,14.8 per 1k
+204,Montserrat,1.32,35.46 per 1k,
+205,Spain,1.27,20.01 per 1k,2.7 per 1k
+206,Puerto Rico,1.24,39.04 per 1k,
+207,Hong Kong,1.22,41.7 per 1k,
+208,Italy,1.22,19.7 per 1k,2.5 per 1k
+209,Macau,1.22,48.44 per 1k,
+210,Singapore,1.16,44.94 per 1k,1.8 per 1k
+211,South Korea,1.1,40.03 per 1k,2.6 per 1k
+212,Taiwan,1.08,45.27 per 1k,
